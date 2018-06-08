@@ -1,4 +1,4 @@
 # postgres-lambda
-AWS lambda handler for update records in Postgres RDS
+AWS lambda handler compatible with Postgres RDS
 
 Python 3.4
